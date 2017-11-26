@@ -1,7 +1,7 @@
 <img width="1163" alt="awesome-jamstack" src="https://user-images.githubusercontent.com/1016365/33236442-924c9cac-d208-11e7-9427-40bba133bf9d.png">
 
 
-# Awesome JAMstack
+# Awesome JAMstack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of awesome JAMstack starters, workflows, articles, resources and shiny things.
 
 
