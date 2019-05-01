@@ -16,6 +16,7 @@ A collection of awesome JAMstack starters, workflows, articles, resources and sh
 
 ## Community
 - [Official Site](https://jamstack.org/) - Like the official Tipe Facebook page.
+- [New to JAMstack? Everything You Need to Know to Get Started in 2019](https://snipcart.com/blog/jamstack)
 
 <img width="980" alt="JAM" src="https://user-images.githubusercontent.com/1016365/33236444-9806ea94-d208-11e7-8486-b93aec07b4ea.png">
 ___
